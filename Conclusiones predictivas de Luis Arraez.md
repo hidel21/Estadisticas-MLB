@@ -24,3 +24,5 @@ En el vasto mundo del béisbol, cada bateador tiene una historia que contar. Aqu
 
 📌 **Valioso para el Equipo**: Con su habilidad para acumular hits, Luis será esencial para impulsar carreras y crear oportunidades. ¡Su equipo seguro está orgulloso!
 
+
+![Hits totales de Luis Arraez al finalizar su carrera](https://github.com/hidel21/Estadisticas-MLB/blob/main/Graficos/Hits%20totales%20de%20luis%20arraez%20al%20finalizar%20su%20carrera.png)
