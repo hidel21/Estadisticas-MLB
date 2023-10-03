@@ -12,3 +12,5 @@ Basándonos en nuestro brillante script 📊, las probabilidades de que nuestro 
 ## 📚 **Análisis más detallado**
 
 El análisis predictivo navega en el mar de datos 🌊 de hits y HR de José Altuve desde 2011. Durante este emocionante viaje, Altuve ha promediado unos impresionantes 192 hits y 27 HR cada temporada. Si sigue con ese swing, veremos a Altuve alcanzar los 3000 hits en 2027 y los 500 HR en 2032. ¡Agarra tus palomitas 🍿 y prepárate para el espectáculo!
+
+![Estadísticas al finalizar su carrera José Altuve](https://github.com/hidel21/Estadisticas-MLB/blob/main/Graficos/Estadisticas%20al%20finalizar%20su%20carrera%20Jose%20Altuve.png)
